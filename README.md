@@ -2,10 +2,6 @@
 
 <h3 align="center">IT student who likes doing stuff. Basic knowledge only.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -44,11 +40,8 @@
 </p>
 <h3 align="left">Interests:</h3>
 <p align="left">
-    <a>
-    Cybersecurity
-    </a>
-    <a>
-    Web Development
-    </a>
+    <ul>
+        <li>Web Development</li>
+        <li>Cybersecurity</li>
+    </ul>
 </p>
-
