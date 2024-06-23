@@ -2,6 +2,19 @@
 
 <h3 align="center">IT student who likes doing stuff. Basic knowledge only.</h3>
 
+## 🚀 About Me
+👩‍💻 I'm currently working on anything that comes into my mind
+
+🧠 I'm currently learning more about Java
+
+## Interests
+<p align="left">
+  <ul>
+    <li>Web Development</li>
+    <li>Cybersecurity</li>
+  </ul>
+</p>
+
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
@@ -38,12 +51,4 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-</p>
-
-<h3 align="left">Interests:</h3>
-<p align="left">
-  <ul>
-    <li>Web Development</li>
-    <li>Cybersecurity</li>
-  </ul>
 </p>
