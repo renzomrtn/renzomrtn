@@ -7,7 +7,7 @@
 
 🧠 I'm currently learning more about Java
 
-## Interests
+## ⚡ Interests
 <p align="left">
   <ul>
     <li>Web Development</li>
@@ -15,7 +15,7 @@
   </ul>
 </p>
 
-<h3 align="left">Languages:</h3>
+## 💻 Languages
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -40,7 +40,7 @@
   </a>
 </p>
 
-<h3 align="left">Tools:</h3>
+## 🔧 Tools
 <p align="left">
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
