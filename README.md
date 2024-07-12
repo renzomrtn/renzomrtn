@@ -2,29 +2,31 @@
 
 <h3 align="center">IT student who likes doing stuff. Basic knowledge only.</h3>
 
+<br/>
 
 ## 🚀 About Me
 👩‍💻 I'm currently working on anything that comes into my mind
 
 🧠 I'm currently learning more about Java
 
+<br/>
 
 ## ⚡ Interests
 - Web Development
 - Cybersecurity
 
-
-
-  <table>
+<br/>
+<hr/>
+<table>
   <tr>
     <th>💻 Languages</th>
-    <th><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></th>
-    <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></th>
-    <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></th>
-    <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></th>
-    <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></th>
-    <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></th>
-    <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></th>
+    <th><img src="https://github.com/user-attachments/assets/39468bb0-0f77-493a-8164-32d08eeb1129" alt="bootstrap" width="40" height="40"/></th>
+    <th><img src="https://github.com/user-attachments/assets/78a447cd-ed20-41a1-96d5-0ae296c5f315" alt="css3" width="40" height="40"/></th>
+    <th><img src="https://github.com/user-attachments/assets/0c88b6e6-a323-4bfc-a2f0-3d4a22060031" alt="html5" width="40" height="40"/></th>
+    <th><img src="https://github.com/user-attachments/assets/2246ba87-f24f-457f-828d-5873aa4085e6" alt="java" width="40" height="40"/></th>
+    <th><img src="https://github.com/user-attachments/assets/2792e8aa-05c5-4e51-8694-24314e46a00a" alt="javascript" width="40" height="40"/></th>
+    <th><img src="https://github.com/user-attachments/assets/49e8e8b5-e73e-4915-a064-2976c3e3cc93" alt="react" width="40" height="40"/></th>
+    <th><img src="https://github.com/user-attachments/assets/87339cec-0eb2-47c1-8e9d-065c35c215dd" alt="angular" width="40" height="40"/></th>
   </tr>
   <tr>
     <td>🔧 Tools</td>
