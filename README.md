@@ -1,6 +1,7 @@
 # MARTIN LORENZ FAJARDO
 
-<h3 align="center">IT student who likes doing stuff. Basic knowledge only.</h3>
+<h3 align="center">Vanilla CSS Enjoyer.</h3>
+<h3 align="center">IT student who likes doing stuff.</h3>
 
 <br/>
 
