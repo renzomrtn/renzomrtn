@@ -7,12 +7,13 @@
 <br/>
 
 ## ⚡ Interests
-- Not Coding
-- Web Development
-- Cybersecurity
+- ✅ Coding for Fun
+- 🌐 Web Development
+- 🔏 Cybersecurity
 
 <br/>
-<hr/>
+
+## 💻 Tools
 <img src="https://github.com/user-attachments/assets/0c88b6e6-a323-4bfc-a2f0-3d4a22060031" alt="html5" width="40" height="40"/>
 <img src="https://github.com/user-attachments/assets/78a447cd-ed20-41a1-96d5-0ae296c5f315" alt="css3" width="40" height="40"/>
 <img src="https://github.com/user-attachments/assets/2792e8aa-05c5-4e51-8694-24314e46a00a" alt="javascript" width="40" height="40"/>
