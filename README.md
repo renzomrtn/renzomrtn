@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 👩‍💻 I'm currently working on anything that comes into my mind... it's a lot
-- 🧠 I'm currently learning more about Java
+- 🧠 I'm currently learning more about Java and Python
 
 <br/>
 
