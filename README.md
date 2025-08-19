@@ -28,3 +28,6 @@
 <img src="https://github.com/renzomrtn/renzomrtn/assets/134070725/5667ccb1-f8e1-4519-9986-65084c572ac0" alt="canva" width="40" height="40"/>
 <img src="https://github.com/renzomrtn/renzomrtn/assets/134070725/0cd1ed18-8a9b-4fd6-be30-aa0448d5d664" alt="photoshop" width="40" height="40"/>
 <img src="https://github.com/renzomrtn/renzomrtn/assets/134070725/5480052d-8023-4d22-bceb-09a66d150504" alt="git" width="40" height="40"/>
+<img width="40" height="40" alt="mysql" src="https://github.com/user-attachments/assets/e7360232-a944-42ad-b1bf-168ed05b46f6" />
+<img width="40" height="40" alt="php" src="https://github.com/user-attachments/assets/0a7b7ae9-cf6e-4787-9c48-f2571525ac1f" />
+<img width="40" height="40" alt="vue" src="https://github.com/user-attachments/assets/710fe2b7-cad5-4646-9bcc-32d4cd59be8c" />
