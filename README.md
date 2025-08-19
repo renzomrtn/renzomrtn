@@ -1,9 +1,5 @@
 # MARTIN LORENZ FAJARDO
 
-<h3>Vanilla CSS Enjoyer.</h3>
-<h3>I like stuff.</h3>
-
-<br/>
 
 ## 🚀 About Me
 - 👩‍💻 I'm currently working on anything that comes into my mind... it's a lot
