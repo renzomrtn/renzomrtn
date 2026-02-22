@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 👩‍💻 Currently working on anything that comes into my mind
-- 🧠 I'm currently learning more about Java and Python
+- 🧠 Learning Python and C#
 
 <br/>
 
