@@ -9,6 +9,7 @@
 ## ⚡ Interests
 - ✅ Coding for Fun
 - 🌐 Web Development
+- 📱 App Development
 - 🔏 Cybersecurity
 
 <br/>
