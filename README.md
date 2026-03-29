@@ -14,9 +14,9 @@
 <br/>
 
 ## 💻 Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,cs,bootstrap,react,mysql,vue,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,java,vue,php,mysql,python,cs)](https://skillicons.dev)
 
 <br/>
 
-## 💻 Tools
-[![My Skills](https://skillicons.dev/icons?i=figma,illustrator,photoshop,git,github,vscode,visualstudio)](https://skillicons.dev)
+## 🛠️ Tools
+[![My Skills](https://skillicons.dev/icons?i=figma,illustrator,photoshop,git,github,vscode,visualstudio,androidstudio)](https://skillicons.dev)
